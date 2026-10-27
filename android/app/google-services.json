@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "938243125929",
+    "project_id": "madre-laura-incidencias",
+    "storage_bucket": "madre-laura-incidencias.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938243125929:android:72b07fa075e93185ac2fb8",
+        "android_client_info": {
+          "package_name": "ec.edu.madrelaura.app_incidencias_madre_laura"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYgqQSmjRDswnlqD_aE4tzmt7VjB9EdTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
